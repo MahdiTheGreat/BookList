@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="BookList">BookList</string>
+    <string name="book1">A Christmas Carol</string>
+    <string name="book2">Crime and punishment</string>
+    <string name="book3">The Catcher in the Rye</string>
+    <string name="book4">To Kill a Mockingbird</string>
+    <string name="book5">A Game Of Thrones</string>
+    <string name="book1Writer">Charles Dickens</string>
+    <string name="book2Writer">Fyodor Dostoevsky</string>
+    <string name="book3Writer">J. D. Salinger</string>
+    <string name="book4Writer">Harper Lee</string>
+    <string name="book5Writer">George R. R. Martin</string>
+    <string name="book1Edition">1st</string>
+    <string name="book2Edition">1st</string>
+    <string name="book3Edition">1st</string>
+    <string name="book4Edition">1st</string>
+    <string name="book5Edition">1st</string>
+    <string name="book1Summery">On Christmas Eve miserly businessman Ebenezer Scrooge is visited by the ghost of his former business partner, Jacob Marley and the spirits of Christmas past, present and future in the hope that he will learn the error of his ways.</string>
+    <string name="book2Summery">Raskolnikov, a former student, lives in poverty and chaos in St. Petersburg. He decides—through contradictory theories, including utilitarian morality and the belief that extraordinary people have the “right to transgress”—to murder Alyona Ivanovna, an elderly pawnbroker.</string>
+    <string name="book3Summery">The novel details two days in the life of 16-year-old Holden Caulfield after he has been expelled from prep school. Confused and disillusioned, Holden searches for truth and rails against the “phoniness” of the adult world. He ends up exhausted and emotionally unstable.</string>
+    <string name="book4Summery">To Kill a Mockingbird is both a young girls coming-of-age story and a darker drama about the roots and consequences of racism and prejudice, probing how good and evil can coexist within a single community or individual.</string>
+    <string name="book5Summery">Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia. In the mythical continent of Westeros, several powerful families fight for control of the Seven Kingdoms.</string>
+    <string name="book1Year">1843</string>
+    <string name="book2Year">1866</string>
+    <string name="book3Year">1951</string>
+    <string name="book4Year">1960</string>
+    <string name="book5Year">1996</string>
+    <string name="title_activity_book_detail">BookDetailActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
