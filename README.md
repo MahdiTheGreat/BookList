@@ -9,7 +9,7 @@ This includes the book cover image, book title, and author name. For this page, 
 
 The user can click on the book image to see more information about the book. In this case, another page should be displayed, in which the image of the book is displayed first, and below it, information about the book such as author, publisher, year of publication, edition, summary, etc. is displayed like below:
 
-![BookDetails](https://github.com/MahdiTheGreat/BookList/assets/47212121/f4a69711-e676-4086-9830-8d38675f363d)
+<img src="https://github.com/MahdiTheGreat/BookList/assets/47212121/f4a69711-e676-4086-9830-8d38675f363d" width="200" height="300"> 
 
 For this project, we store the information about five books.
 
